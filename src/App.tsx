@@ -33,7 +33,7 @@ export const App = () => {
           </button>
 
           <button
-          className="bg-blue-500 text-white px-4 py-2 rounded-md shadow-md cursor-pointer hover:bg-blue-600 transition-colors cursor point"
+          className="bg-red-500 text-white px-4 py-2 rounded-md shadow-md cursor-pointer hover:bg-blue-600 transition-colors cursor point"
                   onClick={() => setTitle("LABORATORIO 2")}
           >
               cambia titolo
